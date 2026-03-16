@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# adk files
+ai-agents-adk/personal_assistant/.adk/
